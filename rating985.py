@@ -1,3 +1,4 @@
+https://www.codechef.com/problems/TRISQ
 t = int(input())
 for i in range(t):
     b = int(input())
