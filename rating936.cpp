@@ -1,3 +1,4 @@
+https://www.codechef.com/problems/TWOVSTEN
 #include<iostream>
 using namespace std;
 int main()
