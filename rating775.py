@@ -1,3 +1,4 @@
+#123
 https://www.codechef.com/problems/LUCKFOUR
   a=int(input())
 list1=[]
